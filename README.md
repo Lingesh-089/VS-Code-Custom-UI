@@ -6,17 +6,8 @@ A highly customized **Visual Studio Code UI transformation** using injected CSS 
 
 ## 📸 Preview
 
-> ⚠️ Add your screenshots/GIFs here (VERY IMPORTANT for impact)
-
-### 🔥 Before vs After
-
-<img src="images/before.png" width="400"/> <img src="images/after.png" width="400"/>
-
----
-
-### 🎥 Live Demo
-
-<img src="images/demo.gif" width="800"/>
+<img width="1919" height="1199" alt="Screenshot 2026-05-03 211425" src="https://github.com/user-attachments/assets/a261d54c-da76-4446-8bc4-a0ba9983f2a8" />
+<img width="1919" height="1199" alt="Screenshot 2026-05-03 211152" src="https://github.com/user-attachments/assets/13b238e4-448e-447c-a5f4-bda440cb196e" />
 
 ---
 
@@ -169,17 +160,6 @@ Enable Custom CSS and JS
 * Tooltip redesign
 * File explorer highlighting
 * UI simplification (removing unnecessary elements)
-
----
-
-## 📸 Screenshots 
-
-```md id="extrascreenshot"
-<img src="images/sidebar.png" width="400"/>
-<img src="images/command-palette.png" width="400"/>
-```<img width="1919" height="1199" alt="Screenshot 2026-05-03 211425" src="https://github.com/user-attachments/assets/a261d54c-da76-4446-8bc4-a0ba9983f2a8" />
-<img width="1919" height="1199" alt="Screenshot 2026-05-03 211152" src="https://github.com/user-attachments/assets/13b238e4-448e-447c-a5f4-bda440cb196e" />
-
 
 ---
 
